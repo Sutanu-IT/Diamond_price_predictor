@@ -3,3 +3,8 @@ Name: ML-project
 Version: 0.0.1
 Summary: An end to end ml live project
 Author: Sutanu Chandra
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn

@@ -16,10 +16,10 @@ def get_requirements(file_path:str)-> List[str]:
 
 
 setup(
-    name="ML project",
+    name="Diamond price Predictor",
     version="0.0.1",
     author="Sutanu Chandra",
-    description="An end to end ml live project",
+    description="An end to end ml live project on diamond price prediction",
     email="sutanuchandra2002@gmail.com",
     install_requires=get_requirements("requirements.txt"),
     packages=find_packages()
